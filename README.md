@@ -199,6 +199,4 @@ y_pred = forest_regressor.predict(X_test)
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
 
-You can replace the placeholder image URLs with your own images if you decide to add them later. This README file is now ready for you to copy and paste into your repository.
